@@ -42,7 +42,7 @@ Bot_cobranzas_v6/
 
 1️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/Kairus29/Bot_cobranzas_v6.git
+git clone [https://github.com/Kairus29/Bot_cobranzas_v6.git](https://github.com/Kairus29/Bot_cobranzas_v6.git
 cd Bot_cobranzas_v6
 
 2️⃣ Crear entorno virtual
